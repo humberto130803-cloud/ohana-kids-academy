@@ -1,0 +1,53 @@
+{
+  "google": {
+    "name": "Ohana Kids Academy",
+    "category": "Centro de educación preescolar",
+    "address": "2G8P+VM3 centenario avenida, Panamá, Provincia de Panamá",
+    "phone": "396-4288",
+    "website": "",
+    "hours": {
+      "info": "jueves, De 7:30 a.m. a 5:30 a.m., Copiar el horario de atención"
+    },
+    "rating": "4.4",
+    "review_count": "",
+    "reviews": [
+      {
+        "name": "Adolfo Gomez Clara\nLocal Guide · 417 opiniones · 1,119 fotos",
+        "stars": "1",
+        "text": "Las Instalaciones estan en un street mall, que los hace verse informales, los niños están encerrados dentro de un par de módulos en el segundo piso, sin el más mínimo espacio al aire libre. Adentro las instalaciones maquilladas con…"
+      },
+      {
+        "name": "Adolfo Gomez Clara\nLocal Guide · 417 opiniones · 1,119 fotos",
+        "stars": "1",
+        "text": "Las Instalaciones estan en un street mall, que los hace verse informales, los niños están encerrados dentro de un par de módulos en el segundo piso, sin el más mínimo espacio al aire libre. Adentro las instalaciones maquilladas con…"
+      },
+      {
+        "name": "Jorge Gutierrez\n5 opiniones · 21 fotos",
+        "stars": "5",
+        "text": "Excelente servicio, excelente manejo con los niños las Teachers son profesionales y el dominio de los idiomas espectacular. Recomendado 200%"
+      },
+      {
+        "name": "Jorge Gutierrez\n5 opiniones · 21 fotos",
+        "stars": "5",
+        "text": "Excelente servicio, excelente manejo con los niños las Teachers son profesionales y el dominio de los idiomas espectacular. Recomendado 200%"
+      },
+      {
+        "name": "Mariangela Risdon\nLocal Guide · 15 opiniones",
+        "stars": "5",
+        "text": "El mejor lugar que jamás haya existido, definitivamente un lugar para confiarle a su hijo, la Sra. Lee es fantástica."
+      },
+      {
+        "name": "Mariangela Risdon\nLocal Guide · 15 opiniones",
+        "stars": "5",
+        "text": "El mejor lugar que jamás haya existido, definitivamente un lugar para confiarle a su hijo, la Sra. Lee es fantástica."
+      }
+    ],
+    "photos_downloaded": []
+  },
+  "social": {},
+  "socials_urls": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "scraped_at": "2026-03-12T03:41:27.422694"
+}
